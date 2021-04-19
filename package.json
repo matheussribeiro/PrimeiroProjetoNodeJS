@@ -1,0 +1,8 @@
+{
+  "name": "PrimeiroProjetoNodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/msrfjfj/PrimeiroProjetoNodeJS.git",
+  "author": "msrfjfj <mtsales1337@gmail.com>",
+  "license": "MIT"
+}
