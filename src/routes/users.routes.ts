@@ -13,7 +13,7 @@ usersRouter.post('/', async(request, response) => {
         email,
         password,
     });
-    const {password, ...user_without_password} = user;
+    const {password: trash, ...user_without_password} = user;
     return response.json(user_without_password);
   }
   catch (err){
